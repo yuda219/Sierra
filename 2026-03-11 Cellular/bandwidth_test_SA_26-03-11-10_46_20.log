@@ -1,0 +1,10 @@
+2026-03-11 10:46:21 Auto-detected interface: eth0 (192.168.19.9)
+2026-03-11 10:46:21 START bandwidth test | size=100m iface=eth0 chunk=262144B timeout=300s log=./bandwidth_test_SA_26-03-11-10_46_20.log
+2026-03-11 10:50:19 | DL OK | #1 size=100.0MB time=238.5s avg=0.4 MB/s | variance: min=0.0 max=1.5 std=0.2 MB/s (237s windows) | total_avg=0.4 MB/s
+2026-03-11 10:53:43 | DL OK | #2 size=100.0MB time=204.1s avg=0.5 MB/s | variance: min=0.0 max=3.2 std=0.3 MB/s (203s windows) | total_avg=0.4 MB/s
+2026-03-11 10:57:50 | DL OK | #3 size=100.0MB time=246.7s avg=0.4 MB/s | variance: min=0.0 max=1.0 std=0.2 MB/s (245s windows) | total_avg=0.4 MB/s
+2026-03-11 11:01:19 | DL OK | #4 size=100.0MB time=209.5s avg=0.5 MB/s | variance: min=0.0 max=3.2 std=0.3 MB/s (208s windows) | total_avg=0.4 MB/s
+2026-03-11 11:04:20 | DL OK | #5 size=100.0MB time=180.2s avg=0.5 MB/s | variance: min=0.0 max=5.5 std=0.6 MB/s (178s windows) | total_avg=0.5 MB/s
+2026-03-11 11:07:57 | DL OK | #6 size=100.0MB time=217.4s avg=0.4 MB/s | variance: min=0.0 max=3.5 std=0.3 MB/s (216s windows) | total_avg=0.5 MB/s
+2026-03-11 11:11:57 | DL OK | #7 size=100.0MB time=240.0s avg=0.4 MB/s | variance: min=0.2 max=1.0 std=0.1 MB/s (238s windows) | total_avg=0.4 MB/s
+2026-03-11 11:16:31 | DL OK | #8 size=100.0MB time=274.5s avg=0.4 MB/s | variance: min=0.0 max=1.5 std=0.3 MB/s (273s windows) | total_avg=0.4 MB/s
