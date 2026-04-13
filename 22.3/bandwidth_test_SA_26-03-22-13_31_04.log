@@ -1,0 +1,142 @@
+2026-03-22 13:31:04 Auto-detected interface: eth0 (192.168.19.9)
+2026-03-22 13:31:04 START bandwidth test | size=10m iface=eth0 chunk=262144B timeout=60s log=./bandwidth_test_SA_26-03-22-13_31_04.log
+2026-03-22 13:31:07 | DL OK | #1 size=10.0MB time=2.3s avg=4.3 MB/s | variance: min=7.5 max=7.5 MB/s (1s windows) | total_avg=4.3 MB/s
+2026-03-22 13:31:11 | DL OK | #2 size=10.0MB time=4.3s avg=2.3 MB/s | variance: min=2.0 max=3.8 std=0.9 MB/s (3s windows) | total_avg=3.0 MB/s
+2026-03-22 13:31:14 | DL OK | #3 size=10.0MB time=2.7s avg=3.6 MB/s | variance: min=5.0 max=5.0 MB/s (1s windows) | total_avg=3.2 MB/s
+2026-03-22 13:31:16 | DL OK | #4 size=10.0MB time=2.6s avg=3.7 MB/s | variance: min=4.8 max=4.8 MB/s (1s windows) | total_avg=3.3 MB/s
+2026-03-22 13:31:19 | DL OK | #5 size=10.0MB time=3.2s avg=3.0 MB/s | variance: min=3.5 max=4.8 std=0.9 MB/s (2s windows) | total_avg=3.2 MB/s
+2026-03-22 13:31:25 | DL OK | #6 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.9 MB/s
+2026-03-22 13:31:30 | DL OK | #7 size=10.0MB time=5.0s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=2.7 MB/s
+2026-03-22 13:31:35 | DL OK | #8 size=10.0MB time=5.0s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.6 MB/s
+2026-03-22 13:31:37 | DL OK | #9 size=10.0MB time=2.5s avg=4.0 MB/s | variance: min=6.2 max=6.2 MB/s (1s windows) | total_avg=2.7 MB/s
+2026-03-22 13:31:42 | DL OK | #10 size=10.0MB time=4.9s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=2.6 MB/s
+2026-03-22 13:31:45 | DL OK | #11 size=10.0MB time=3.3s avg=3.0 MB/s | variance: min=3.2 max=4.8 std=1.1 MB/s (2s windows) | total_avg=2.6 MB/s
+2026-03-22 13:31:51 | DL OK | #12 size=10.0MB time=5.3s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.5 MB/s
+2026-03-22 13:31:55 | DL OK | #13 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.8 max=3.5 std=0.9 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:00 | DL OK | #14 size=10.0MB time=5.3s avg=1.8 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:05 | DL OK | #15 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.2 max=4.0 std=1.2 MB/s (4s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:08 | DL OK | #16 size=10.0MB time=2.5s avg=3.9 MB/s | variance: min=5.5 max=5.5 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:11 | DL OK | #17 size=10.0MB time=3.3s avg=2.9 MB/s | variance: min=3.2 max=4.2 std=0.7 MB/s (2s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:15 | DL OK | #18 size=10.0MB time=3.4s avg=2.8 MB/s | variance: min=3.0 max=4.2 std=0.9 MB/s (2s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:19 | DL OK | #19 size=10.0MB time=4.2s avg=2.3 MB/s | variance: min=1.8 max=4.0 std=1.1 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:24 | DL OK | #20 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:29 | DL OK | #21 size=10.0MB time=5.0s avg=2.0 MB/s | variance: min=1.2 max=2.5 std=0.6 MB/s (3s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:34 | DL OK | #22 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:39 | DL OK | #23 size=10.0MB time=4.9s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:41 | DL OK | #24 size=10.0MB time=2.4s avg=4.1 MB/s | variance: min=7.5 max=7.5 MB/s (1s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:47 | DL OK | #25 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.2 max=3.5 std=1.0 MB/s (4s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:49 | DL OK | #26 size=10.0MB time=2.8s avg=3.5 MB/s | variance: min=5.0 max=5.0 MB/s (1s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:53 | DL OK | #27 size=10.0MB time=3.6s avg=2.7 MB/s | variance: min=3.0 max=3.8 std=0.5 MB/s (2s windows) | total_avg=2.4 MB/s
+2026-03-22 13:32:55 | DL OK | #28 size=10.0MB time=2.4s avg=4.1 MB/s | variance: min=7.2 max=7.2 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:32:59 | DL OK | #29 size=10.0MB time=3.2s avg=3.0 MB/s | variance: min=3.2 max=5.0 std=1.2 MB/s (2s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:01 | DL OK | #30 size=10.0MB time=2.8s avg=3.4 MB/s | variance: min=4.2 max=4.2 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:06 | DL OK | #31 size=10.0MB time=4.3s avg=2.3 MB/s | variance: min=2.0 max=4.0 std=1.0 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:08 | DL OK | #32 size=10.0MB time=2.3s avg=4.3 MB/s | variance: min=7.5 max=7.5 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:11 | DL OK | #33 size=10.0MB time=3.4s avg=2.9 MB/s | variance: min=3.0 max=4.5 std=1.1 MB/s (2s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:14 | DL OK | #34 size=10.0MB time=3.0s avg=3.2 MB/s | variance: min=3.8 max=5.8 std=1.4 MB/s (2s windows) | total_avg=2.6 MB/s
+2026-03-22 13:33:19 | DL OK | #35 size=10.0MB time=4.9s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:24 | DL OK | #36 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.0 max=3.8 std=1.2 MB/s (4s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:29 | DL OK | #37 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.8 max=3.8 std=1.0 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:31 | DL OK | #38 size=10.0MB time=2.3s avg=4.3 MB/s | variance: min=7.5 max=7.5 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:35 | DL OK | #39 size=10.0MB time=4.0s avg=2.4 MB/s | variance: min=2.0 max=4.5 std=1.3 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:39 | DL OK | #40 size=10.0MB time=3.4s avg=2.9 MB/s | variance: min=3.0 max=4.2 std=0.9 MB/s (2s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:41 | DL OK | #41 size=10.0MB time=2.2s avg=4.4 MB/s | variance: min=8.0 max=8.0 MB/s (1s windows) | total_avg=2.6 MB/s
+2026-03-22 13:33:46 | DL OK | #42 size=10.0MB time=4.9s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:49 | DL OK | #43 size=10.0MB time=3.1s avg=3.2 MB/s | variance: min=3.8 max=5.5 std=1.2 MB/s (2s windows) | total_avg=2.6 MB/s
+2026-03-22 13:33:55 | DL OK | #44 size=10.0MB time=6.7s avg=1.5 MB/s | variance: min=0.8 max=3.0 std=1.0 MB/s (5s windows) | total_avg=2.5 MB/s
+2026-03-22 13:33:58 | DL OK | #45 size=10.0MB time=2.4s avg=4.1 MB/s | variance: min=6.8 max=6.8 MB/s (1s windows) | total_avg=2.5 MB/s
+2026-03-22 13:34:10 | DL OK | #46 size=10.0MB time=12.7s avg=0.8 MB/s | variance: min=0.0 max=1.8 std=0.6 MB/s (11s windows) | total_avg=2.4 MB/s
+2026-03-22 13:34:41 | DL OK | #47 size=10.0MB time=30.1s avg=0.3 MB/s | variance: min=0.2 max=0.5 std=0.1 MB/s (29s windows) | total_avg=2.1 MB/s
+2026-03-22 13:35:23 | DL OK | #48 size=10.0MB time=42.5s avg=0.2 MB/s | variance: min=0.0 max=0.5 std=0.1 MB/s (40s windows) | total_avg=1.8 MB/s
+2026-03-22 13:35:25 | DL OK | #49 size=10.0MB time=2.3s avg=4.3 MB/s | variance: min=7.2 max=7.2 MB/s (1s windows) | total_avg=1.8 MB/s
+2026-03-22 13:35:33 | DL OK | #50 size=10.0MB time=7.8s avg=1.3 MB/s | variance: min=0.5 max=2.5 std=0.7 MB/s (6s windows) | total_avg=1.8 MB/s
+2026-03-22 13:36:33 | DL FAIL | #51 err=curl_error:
+2026-03-22 13:37:33 | DL FAIL | #52 err=curl_error:
+2026-03-22 13:38:13 | DL OK | #53 size=10.0MB time=39.7s avg=0.2 MB/s | variance: min=0.0 max=0.8 std=0.2 MB/s (31s windows) | total_avg=1.6 MB/s
+2026-03-22 13:38:16 | DL OK | #54 size=10.0MB time=3.3s avg=3.0 MB/s | variance: min=2.2 max=5.8 std=2.5 MB/s (2s windows) | total_avg=1.6 MB/s
+2026-03-22 13:38:45 | DL OK | #55 size=10.0MB time=28.6s avg=0.3 MB/s | variance: min=0.0 max=0.8 std=0.2 MB/s (27s windows) | total_avg=1.5 MB/s
+2026-03-22 13:38:52 | DL OK | #56 size=10.0MB time=7.3s avg=1.3 MB/s | variance: min=1.0 max=1.8 std=0.3 MB/s (6s windows) | total_avg=1.5 MB/s
+2026-03-22 13:38:58 | DL OK | #57 size=10.0MB time=5.7s avg=1.7 MB/s | variance: min=1.0 max=3.0 std=0.9 MB/s (4s windows) | total_avg=1.5 MB/s
+2026-03-22 13:39:06 | DL OK | #58 size=10.0MB time=8.3s avg=1.2 MB/s | variance: min=0.8 max=2.0 std=0.4 MB/s (7s windows) | total_avg=1.5 MB/s
+2026-03-22 13:39:18 | DL OK | #59 size=10.0MB time=12.3s avg=0.8 MB/s | variance: min=0.5 max=1.2 std=0.3 MB/s (11s windows) | total_avg=1.5 MB/s
+2026-03-22 13:39:29 | DL OK | #60 size=10.0MB time=10.6s avg=0.9 MB/s | variance: min=0.5 max=1.5 std=0.3 MB/s (9s windows) | total_avg=1.5 MB/s
+2026-03-22 13:40:07 | DL OK | #61 size=10.0MB time=37.8s avg=0.3 MB/s | variance: min=0.0 max=1.5 std=0.4 MB/s (36s windows) | total_avg=1.4 MB/s
+2026-03-22 13:41:07 | DL FAIL | #62 err=curl_error:
+2026-03-22 13:41:48 | DL OK | #63 size=10.0MB time=40.7s avg=0.2 MB/s | variance: min=0.0 max=1.0 std=0.2 MB/s (39s windows) | total_avg=1.3 MB/s
+2026-03-22 13:41:58 | DL OK | #64 size=10.0MB time=10.1s avg=1.0 MB/s | variance: min=1.0 max=1.5 std=0.2 MB/s (8s windows) | total_avg=1.3 MB/s
+2026-03-22 13:42:58 | DL OK | #65 size=10.0MB time=59.8s avg=0.2 MB/s | variance: min=0.0 max=0.5 std=0.1 MB/s (57s windows) | total_avg=1.1 MB/s
+2026-03-22 13:43:57 | DL OK | #66 size=10.0MB time=59.3s avg=0.2 MB/s | variance: min=0.0 max=0.5 std=0.1 MB/s (57s windows) | total_avg=1.0 MB/s
+2026-03-22 13:44:01 | DL OK | #67 size=10.0MB time=3.8s avg=2.6 MB/s | variance: min=2.2 max=3.5 std=0.9 MB/s (2s windows) | total_avg=1.0 MB/s
+2026-03-22 13:44:11 | DL OK | #68 size=10.0MB time=10.3s avg=0.9 MB/s | variance: min=0.5 max=1.8 std=0.4 MB/s (8s windows) | total_avg=1.0 MB/s
+2026-03-22 13:44:15 | DL OK | #69 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=2.0 max=3.8 std=0.9 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:21 | DL OK | #70 size=10.0MB time=5.6s avg=1.7 MB/s | variance: min=1.0 max=3.0 std=0.9 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:26 | DL OK | #71 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:29 | DL OK | #72 size=10.0MB time=2.3s avg=4.2 MB/s | variance: min=7.0 max=7.0 MB/s (1s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:31 | DL OK | #73 size=10.0MB time=2.2s avg=4.5 MB/s | variance: min=8.0 max=8.0 MB/s (1s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:35 | DL OK | #74 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.8 max=3.8 std=1.0 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:39 | DL OK | #75 size=10.0MB time=3.4s avg=2.9 MB/s | variance: min=3.0 max=4.2 std=0.9 MB/s (2s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:51 | DL OK | #76 size=10.0MB time=12.0s avg=0.8 MB/s | variance: min=0.8 max=1.2 std=0.2 MB/s (10s windows) | total_avg=1.1 MB/s
+2026-03-22 13:44:56 | DL OK | #77 size=10.0MB time=5.3s avg=1.8 MB/s | variance: min=1.8 max=2.5 std=0.4 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:05 | DL OK | #78 size=10.0MB time=9.2s avg=1.1 MB/s | variance: min=0.5 max=1.5 std=0.3 MB/s (8s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:13 | DL OK | #79 size=10.0MB time=8.3s avg=1.2 MB/s | variance: min=0.5 max=2.0 std=0.6 MB/s (7s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:20 | DL OK | #80 size=10.0MB time=6.1s avg=1.6 MB/s | variance: min=1.5 max=3.2 std=0.8 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:33 | DL OK | #81 size=10.0MB time=13.3s avg=0.7 MB/s | variance: min=0.2 max=1.5 std=0.4 MB/s (12s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:42 | DL OK | #82 size=10.0MB time=9.5s avg=1.0 MB/s | variance: min=0.2 max=1.5 std=0.4 MB/s (8s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:48 | DL OK | #83 size=10.0MB time=6.1s avg=1.6 MB/s | variance: min=1.2 max=2.5 std=0.6 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:45:56 | DL OK | #84 size=10.0MB time=7.2s avg=1.4 MB/s | variance: min=1.0 max=2.2 std=0.6 MB/s (5s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:06 | DL OK | #85 size=10.0MB time=10.1s avg=1.0 MB/s | variance: min=0.5 max=2.0 std=0.6 MB/s (9s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:09 | DL OK | #86 size=10.0MB time=3.5s avg=2.8 MB/s | variance: min=3.2 max=4.8 std=1.1 MB/s (2s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:14 | DL OK | #87 size=10.0MB time=4.5s avg=2.2 MB/s | variance: min=1.5 max=3.8 std=1.1 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:21 | DL OK | #88 size=10.0MB time=7.8s avg=1.3 MB/s | variance: min=1.0 max=1.8 std=0.3 MB/s (6s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:41 | DL OK | #89 size=10.0MB time=19.1s avg=0.5 MB/s | variance: min=0.0 max=1.5 std=0.4 MB/s (18s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:43 | DL OK | #90 size=10.0MB time=2.8s avg=3.5 MB/s | variance: min=4.0 max=4.0 MB/s (1s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:48 | DL OK | #91 size=10.0MB time=4.8s avg=2.0 MB/s | variance: min=1.8 max=4.0 std=1.1 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:46:53 | DL OK | #92 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.8 max=2.8 std=0.5 MB/s (4s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:03 | DL OK | #93 size=10.0MB time=9.3s avg=1.1 MB/s | variance: min=1.0 max=1.5 std=0.2 MB/s (8s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:14 | DL OK | #94 size=10.0MB time=11.1s avg=0.9 MB/s | variance: min=0.5 max=2.0 std=0.6 MB/s (9s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:29 | DL OK | #95 size=10.0MB time=15.6s avg=0.6 MB/s | variance: min=0.2 max=1.5 std=0.4 MB/s (14s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:32 | DL OK | #96 size=10.0MB time=2.5s avg=3.9 MB/s | variance: min=5.2 max=5.2 MB/s (1s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:36 | DL OK | #97 size=10.0MB time=4.0s avg=2.4 MB/s | variance: min=2.0 max=4.5 std=1.3 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:40 | DL OK | #98 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.5 max=3.8 std=1.1 MB/s (3s windows) | total_avg=1.1 MB/s
+2026-03-22 13:47:42 | DL OK | #99 size=10.0MB time=1.8s avg=5.5 MB/s | total_avg=1.1 MB/s
+2026-03-22 13:47:45 | DL OK | #100 size=10.0MB time=3.1s avg=3.1 MB/s | variance: min=3.5 max=5.2 std=1.2 MB/s (2s windows) | total_avg=1.2 MB/s
+2026-03-22 13:47:50 | DL OK | #101 size=10.0MB time=5.0s avg=1.9 MB/s | variance: min=1.2 max=4.2 std=1.4 MB/s (4s windows) | total_avg=1.2 MB/s
+2026-03-22 13:47:53 | DL OK | #102 size=10.0MB time=2.9s avg=3.4 MB/s | variance: min=4.2 max=4.2 MB/s (1s windows) | total_avg=1.2 MB/s
+2026-03-22 13:47:55 | DL OK | #103 size=10.0MB time=2.1s avg=4.6 MB/s | variance: min=8.8 max=8.8 MB/s (1s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:00 | DL OK | #104 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.2 max=4.0 std=1.2 MB/s (4s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:06 | DL OK | #105 size=10.0MB time=5.6s avg=1.8 MB/s | variance: min=1.0 max=3.5 std=1.1 MB/s (4s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:11 | DL OK | #106 size=10.0MB time=5.0s avg=2.0 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:15 | DL OK | #107 size=10.0MB time=4.0s avg=2.4 MB/s | variance: min=2.2 max=4.2 std=1.0 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:20 | DL OK | #108 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:23 | DL OK | #109 size=10.0MB time=3.0s avg=3.3 MB/s | variance: min=5.2 max=5.2 MB/s (1s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:27 | DL OK | #110 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.8 max=4.2 std=1.4 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:29 | DL OK | #111 size=10.0MB time=2.1s avg=4.7 MB/s | variance: min=9.5 max=9.5 MB/s (1s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:35 | DL OK | #112 size=10.0MB time=5.1s avg=1.9 MB/s | variance: min=1.2 max=4.0 std=1.2 MB/s (4s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:39 | DL OK | #113 size=10.0MB time=4.5s avg=2.2 MB/s | variance: min=1.8 max=3.5 std=0.9 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:43 | DL OK | #114 size=10.0MB time=4.2s avg=2.3 MB/s | variance: min=2.0 max=4.2 std=1.2 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:48 | DL OK | #115 size=10.0MB time=4.4s avg=2.2 MB/s | variance: min=1.8 max=3.5 std=0.9 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:55 | DL OK | #116 size=10.0MB time=6.9s avg=1.4 MB/s | variance: min=0.8 max=2.8 std=0.9 MB/s (5s windows) | total_avg=1.2 MB/s
+2026-03-22 13:48:59 | DL OK | #117 size=10.0MB time=4.8s avg=2.0 MB/s | variance: min=1.2 max=3.0 std=0.9 MB/s (3s windows) | total_avg=1.2 MB/s
+2026-03-22 13:49:01 | DL OK | #118 size=10.0MB time=1.8s avg=5.5 MB/s | total_avg=1.3 MB/s
+2026-03-22 13:49:06 | DL OK | #119 size=10.0MB time=4.7s avg=2.1 MB/s | variance: min=1.5 max=3.2 std=0.9 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:08 | DL OK | #120 size=10.0MB time=1.9s avg=5.1 MB/s | total_avg=1.3 MB/s
+2026-03-22 13:49:09 | DL OK | #121 size=10.0MB time=1.7s avg=5.6 MB/s | total_avg=1.3 MB/s
+2026-03-22 13:49:15 | DL OK | #122 size=10.0MB time=5.3s avg=1.8 MB/s | variance: min=1.2 max=3.8 std=1.1 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:19 | DL OK | #123 size=10.0MB time=4.5s avg=2.2 MB/s | variance: min=1.8 max=3.8 std=1.0 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:28 | DL OK | #124 size=10.0MB time=8.6s avg=1.1 MB/s | variance: min=0.5 max=1.5 std=0.4 MB/s (7s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:33 | DL OK | #125 size=10.0MB time=5.4s avg=1.8 MB/s | variance: min=1.0 max=3.2 std=1.0 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:38 | DL OK | #126 size=10.0MB time=5.0s avg=1.9 MB/s | variance: min=1.2 max=2.8 std=0.8 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:43 | DL OK | #127 size=10.0MB time=4.7s avg=2.1 MB/s | variance: min=1.8 max=3.0 std=0.7 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:49 | DL OK | #128 size=10.0MB time=5.8s avg=1.7 MB/s | variance: min=1.2 max=3.0 std=0.8 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:49:55 | DL OK | #129 size=10.0MB time=5.7s avg=1.7 MB/s | variance: min=1.2 max=2.5 std=0.7 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:00 | DL OK | #130 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.8 max=2.8 std=0.5 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:05 | DL OK | #131 size=10.0MB time=5.4s avg=1.8 MB/s | variance: min=1.2 max=3.2 std=0.9 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:11 | DL OK | #132 size=10.0MB time=5.5s avg=1.8 MB/s | variance: min=1.0 max=3.2 std=1.0 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:15 | DL OK | #133 size=10.0MB time=4.7s avg=2.1 MB/s | variance: min=1.5 max=3.0 std=0.8 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:20 | DL OK | #134 size=10.0MB time=4.1s avg=2.4 MB/s | variance: min=2.0 max=4.2 std=1.1 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:24 | DL OK | #135 size=10.0MB time=4.3s avg=2.3 MB/s | variance: min=1.8 max=3.8 std=1.0 MB/s (3s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:29 | DL OK | #136 size=10.0MB time=5.3s avg=1.8 MB/s | variance: min=1.2 max=4.0 std=1.3 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:33 | DL OK | #137 size=10.0MB time=3.5s avg=2.8 MB/s | variance: min=3.8 max=4.0 std=0.2 MB/s (2s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:38 | DL OK | #138 size=10.0MB time=5.2s avg=1.9 MB/s | variance: min=1.5 max=3.0 std=0.6 MB/s (4s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:47 | DL OK | #139 size=10.0MB time=8.9s avg=1.1 MB/s | variance: min=0.8 max=1.5 std=0.3 MB/s (7s windows) | total_avg=1.3 MB/s
+2026-03-22 13:50:51 | DL OK | #140 size=10.0MB time=4.0s avg=2.4 MB/s | variance: min=2.2 max=3.0 std=0.5 MB/s (2s windows) | total_avg=1.3 MB/s
