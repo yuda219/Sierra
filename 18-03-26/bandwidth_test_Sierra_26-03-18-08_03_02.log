@@ -1,0 +1,2 @@
+2026-03-18 08:03:02 Auto-detected interface: eth2 (20.0.0.1)
+2026-03-18 08:03:02 START bandwidth test | size=10m iface=eth2 chunk=262144B timeout=60s log=./bandwidth_test_Sierra_26-03-18-08_03_02.log

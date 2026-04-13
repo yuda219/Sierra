@@ -1,0 +1,3 @@
+2026-03-18 08:03:02 Auto-detected interface: eth0 (192.168.19.9)
+2026-03-18 08:03:02 START bandwidth test | size=10m iface=eth0 chunk=262144B timeout=60s log=./bandwidth_test_SA_26-03-18-08_03_02.log
+2026-03-18 08:03:05 | DL OK | #1 size=10.0MB time=2.4s avg=4.0 MB/s | variance: min=7.0 max=7.0 MB/s (1s windows) | total_avg=4.0 MB/s
