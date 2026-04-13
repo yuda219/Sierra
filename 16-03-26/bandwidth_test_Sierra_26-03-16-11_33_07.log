@@ -1,0 +1,10 @@
+2026-03-16 11:33:07 Auto-detected interface: eth2 (20.0.0.1)
+2026-03-16 11:33:07 START bandwidth test | size=100m iface=eth2 chunk=262144B timeout=300s log=./bandwidth_test_Sierra_26-03-16-11_33_07.log
+2026-03-16 11:38:07 | DL FAIL | #1 err=curl_error:
+2026-03-16 11:43:07 | DL FAIL | #2 err=curl_error:
+2026-03-16 11:47:36 | DL OK | #3 size=100.0MB time=268.9s avg=0.4 MB/s | variance: min=0.0 max=1.5 std=0.2 MB/s (264s windows) | total_avg=0.4 MB/s
+2026-03-16 11:52:36 | DL FAIL | #4 err=curl_error:
+2026-03-16 11:57:07 | DL OK | #5 size=100.0MB time=271.2s avg=0.4 MB/s | variance: min=0.0 max=1.8 std=0.2 MB/s (270s windows) | total_avg=0.4 MB/s
+2026-03-16 12:01:03 | DL OK | #6 size=100.0MB time=235.1s avg=0.4 MB/s | variance: min=0.0 max=1.0 std=0.2 MB/s (234s windows) | total_avg=0.4 MB/s
+2026-03-16 12:06:03 | DL FAIL | #7 err=curl_error:
+2026-03-16 12:06:15 | DL OK | #8 size=100.0MB time=12.8s avg=7.6 MB/s | variance: min=2.2 max=14.0 std=3.7 MB/s (11s windows) | total_avg=0.5 MB/s

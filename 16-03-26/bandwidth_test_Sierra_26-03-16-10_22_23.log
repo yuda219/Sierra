@@ -1,0 +1,6 @@
+2026-03-16 10:22:23 Auto-detected interface: eth2 (20.0.0.1)
+2026-03-16 10:22:23 START bandwidth test | size=100m iface=eth2 chunk=262144B timeout=300s log=./bandwidth_test_Sierra_26-03-16-10_22_23.log
+2026-03-16 10:22:23 | DL FAIL | #1 err=curl_error:
+2026-03-16 10:22:23 | DL FAIL | #2 err=curl_error:
+2026-03-16 10:22:27 | DL FAIL | #3 err=curl_error:
+2026-03-16 10:22:27 Interrupted by user after 4 downloads
